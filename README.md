@@ -1,28 +1,32 @@
 
 👋 Hi, I’m Darwin
 
-I have experience in backend, with python frameworks like flask and a
-bit of django, however, lately I am focusing on serverless in aws, which
-allows to run functions without these web frameworks.
-
-I have dealt with data analysis and machine learning problems, also in
-python, on images and audios. I can do web data collection, through
-libraries focused for that (scrapy), cleaning and use to support
-business intelligence areas. I also have knowledge on decision making
-algorithms to further support this area.
-
-I have worked with the architect-technical approach to microservices in
-the python language, so I can help design parts of the backend system. I
-am fascinated by efficiency so I try to apply all my knowledge to create
-quality products.
-
-As for the frontend, it is not my forte, since I do not like so much the
-visual design, however, I can make functionalities that are required of
-me of all kinds within this by means of the React library or the Next js
-framework (based on react) or React native for mobile devices. As long
-as the design is established.
+Results-driven Software Engineer with 4+ years of experience in designing,
+developing, and optimizing scalable backend architectures using Python, Java
+(Spring Boot) & JavaScript, cloud technologies (AWS, Azure, Kubernetes, Docker),
+event-driven architectures and enterprise integrations. Passionate about building
+high-performance microservices and distributed systems, ensuring reliability,
+security, and maintainability. Experienced in CI/CD environments with Azure
+Devops. Committed to delivering efficient, scalable, and cost-effective solutions
+while mentoring teams and driving technical excellence.
 
 📫 Reach me: [darwinsherrerac@gmail.com](darwinsherrerac@gmail.com)
+
+Core competencies
+✔ Backend Development & API Design: 
+Python, Java, JavaScript, Spring Boot, Flask, FastAPI, Node JS, REST, GraphQL.
+✔ Frontend development: 
+React JS (Next JS), React Native.
+✔ Cloud & Microservices Architectures: 
+AWS, Azure, Kubernetes, Docker, AWS Lambda, AWS Glue, CI/CD.
+✔ Database Management: 
+SQL (PostgreSQL, MySQL, SQL Server, Oracle SQL, MariaDB), NoSQL (MongoDB, Redis, Teradata).
+✔ Event-Driven & Messaging Systems: 
+RabbitMQ, IBM MQ, Kafka, Redis Streams, AWS SQS & AWS Event Bridge.
+✔ Monitoring & Performance:
+OpenTelemetry, ELK, distributed tracing, observability best practices.
+✔ Software Development Best Practices: 
+GIT, Agile methodologies, unit testing (Pytest, JUnit, TestNG).
 
 ## Languages
 
