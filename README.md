@@ -14,7 +14,6 @@ while mentoring teams and driving technical excellence.
 
 Core competencies
 ✔ Backend Development & API Design: 
-
 Python, Java, JavaScript, Spring Boot, Flask, FastAPI, Node JS, REST, GraphQL.
 
 
