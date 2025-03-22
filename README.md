@@ -14,19 +14,34 @@ while mentoring teams and driving technical excellence.
 
 Core competencies
 ✔ Backend Development & API Design: 
+
 Python, Java, JavaScript, Spring Boot, Flask, FastAPI, Node JS, REST, GraphQL.
+
+
+
 ✔ Frontend development: 
 React JS (Next JS), React Native.
+
+
 ✔ Cloud & Microservices Architectures: 
 AWS, Azure, Kubernetes, Docker, AWS Lambda, AWS Glue, CI/CD.
+
+
 ✔ Database Management: 
 SQL (PostgreSQL, MySQL, SQL Server, Oracle SQL, MariaDB), NoSQL (MongoDB, Redis, Teradata).
+
+
 ✔ Event-Driven & Messaging Systems: 
 RabbitMQ, IBM MQ, Kafka, Redis Streams, AWS SQS & AWS Event Bridge.
+
+
 ✔ Monitoring & Performance:
 OpenTelemetry, ELK, distributed tracing, observability best practices.
+
+
 ✔ Software Development Best Practices: 
 GIT, Agile methodologies, unit testing (Pytest, JUnit, TestNG).
+
 
 ## Languages
 
