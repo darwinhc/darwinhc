@@ -49,12 +49,6 @@ GIT, Agile methodologies, unit testing (Pytest, JUnit, TestNG).
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60" alt="javascript lang logo" /></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width="60" alt="python lang logo" /></code>
 
-These languages are the main ones and the ones in which I am most
-comfortable comfortable to contribute to the company, however, I have
-knowledge of others I have knowledge of others that are secondary and
-serve for specific tasks. secondary and serve for specific tasks. I know
-java, bash, sql, css, scala.
-
 ## Tools
 
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="60" alt="flask logo" /></code>
@@ -70,12 +64,6 @@ java, bash, sql, css, scala.
 -   Amazon web services - Focused on serverless applications and their
     derivatives
 -   Google cloud - Experience with kubernetes
-
-## Databases
-
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="60" alt="mysql logo" /></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="60" alt="mongodb logo" /></code>
-<code><img src="https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg" width="60" alt="neo4j logo" /></code>
 
 ## About me
 
