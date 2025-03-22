@@ -12,7 +12,7 @@ while mentoring teams and driving technical excellence.
 
 📫 Reach me: [darwinsherrerac@gmail.com](darwinsherrerac@gmail.com)
 
-Core competencies
+## Core competencies
 ✔ Backend Development & API Design: 
 Python, Java, JavaScript, Spring Boot, Flask, FastAPI, Node JS, REST, GraphQL.
 
