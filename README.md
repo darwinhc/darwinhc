@@ -27,5 +27,6 @@ Python · Java · FastAPI · Flask · Spring Boot · AWS · Docker · Kubernetes
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/darwin-herrera](linkedin.com/in/darwin-herrera)
-- Email: [darwinsherrerac@gmail.com](mailto:darwinsherrerac@gmail.com)
+- Portfolio & CV: [darwinhc.github.io](https://darwinhc.github.io/)
+- LinkedIn: [linkedin.com/in/darwin-herrera](https://www.linkedin.com/in/darwin-herrera/)
+- Email: [darwinherrera1508@gmail.com](mailto:darwinherrera1508@gmail.com)
