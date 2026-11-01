@@ -1,32 +1,28 @@
 # Hi, I'm Darwin Herrera
 
-Senior Backend Engineer based in Germany, focused on Python, Java, AWS, microservices, and clean architecture.
+**Senior Backend Engineer** · Python, Java, AWS
 
-I design and build backend systems with strong separation between business logic and infrastructure, using event-driven patterns, cloud-native services, automated testing, and observability.
+I build backend systems that keep working when the business depends on them: event-driven services on AWS, real-time and offline-first applications, and migrations of legacy platforms. Six years in production for healthcare, retail, banking and SaaS companies.
 
-## What I work on
+Open to senior backend roles and to project work with companies anywhere. → [Message me on LinkedIn](https://www.linkedin.com/in/darwin-herrera/)
 
-- Backend systems with Python, FastAPI, Flask, and Java/Spring Boot
-- AWS-based services using Lambda, ECS, SQS, EventBridge, S3, and API Gateway
-- Event-driven architectures with Kafka, RabbitMQ, IBM MQ, and Redis
-- Clean Architecture / Hexagonal Architecture
-- CI/CD, testing, observability, and production reliability
+## Selected work
 
-## Featured work
+**[TKD Poomsae Scorer](https://github.com/darwinhc/tkd-poomsae-scorer)**: offline-first scoring for taekwondo competitions. Three to seven judges score from Android phones, a local FastAPI server applies the official consolidation rules, and the venue's TV shows the result within seconds, with no internet. [Case study](https://darwinhc.github.io/work/tkd-poomsae-scorer/)
 
-### Bisslog ecosystem
-A set of Python libraries and tools for building backend applications with clean architecture, metadata-driven use cases, and framework-independent business logic.
+**Realtime Events** ([backend](https://github.com/darwinhc/tt-events-realtime.service.python) · [frontend](https://github.com/darwinhc/tt-events-realtime.frontend.react)): many people change the same events and every open screen updates live, with HTTP as the source of truth and WebSocket notifications after each commit. FastAPI, PostgreSQL, React. [Case study](https://darwinhc.github.io/work/realtime-events/) · [Live demo](https://tt-events-realtime-frontend-react.vercel.app)
 
-- `bisslog-flask`: dynamic Flask HTTP/WebSocket route generation from metadata
-- `bisslog-aws-lambda-py`: AWS Lambda handler generation and packaging from metadata
-- `company-data-registry.microservice`: example microservice using the architecture in practice
+**[bisslog](https://github.com/darwinhc/bisslog-core-py)**: my open-source library for hexagonal architecture in Python. Business rules live in plain use cases; Flask, FastAPI, AWS Lambda, MongoDB or Supabase plug in as adapters. Seven packages on [PyPI](https://pypi.org/project/bisslog/). [How it works](https://darwinhc.github.io/bisslog/)
 
-## Tech stack
+## What I work with
 
-Python · Java · FastAPI · Flask · Spring Boot · AWS · Docker · Kubernetes · PostgreSQL · MongoDB · Redis · Kafka · RabbitMQ · Pytest · JUnit · OpenTelemetry
+- **Backend:** Python (FastAPI, Flask, Django), Java (Spring Boot), REST and WebSocket APIs, hexagonal architecture
+- **AWS and events:** Lambda, ECS, SQS, SNS, EventBridge, SES, Kafka, RabbitMQ
+- **Data:** PostgreSQL, SQL Server, MongoDB, Redis, DynamoDB, ETL pipelines
+- **Delivery:** Docker, Terraform, GitHub Actions, Pytest, OpenTelemetry
 
 ## Contact
 
-- Portfolio & CV: [darwinhc.github.io](https://darwinhc.github.io/)
 - LinkedIn: [linkedin.com/in/darwin-herrera](https://www.linkedin.com/in/darwin-herrera/)
+- Portfolio: [darwinhc.github.io](https://darwinhc.github.io/)
 - Email: [darwinherrera1508@gmail.com](mailto:darwinherrera1508@gmail.com)
